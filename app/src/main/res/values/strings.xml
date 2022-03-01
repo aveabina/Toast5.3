@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Toast5.3</string>
     <string name="btn">Toast</string>
+    <string name="toast">ToastMessage</string>
 </resources>
